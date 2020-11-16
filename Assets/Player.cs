@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+
+
     public string myName = "jonathan";
     public int myAge = 26;
     public string myLocation = "Atlanta";
