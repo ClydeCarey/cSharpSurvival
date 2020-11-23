@@ -309,6 +309,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4361e84361211da42be8e92abc5dc571, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myName: james
-  myAge: 26
-  myLocation: Atlanta
+  playerName: Duke Nukem
+  age: 30
+  speed: 22.1
+  health: 85.5
+  myScore: 39
+  hasAllKeys: 0
+  ammo: 40
